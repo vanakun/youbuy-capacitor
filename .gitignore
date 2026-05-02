@@ -9,7 +9,7 @@ android/
 *.aar
 
 # Capacitor
-www/
+# www/ (Removed from ignore because this is a wrapper and needs index.html)
 # Note: Since this is a wrapper, we might want to keep www/index.html 
 # but usually it's generated. In this specific case, the user HAS it.
 
